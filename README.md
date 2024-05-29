@@ -1,18 +1,3 @@
-
-A passionate Android Developer
-🌍 From 
-🚀 Deeply immersed in the world of Android Development
-🌱 Currently learning the wonders of Jetpack Compose
-📚 Lifelong learner, constantly expanding my knowledge in software development, DevOps and IoT(installation)
-📫 How to reach me: 
-Languages and Tools:
-kotlin java android realm sqlite firebase git
-
-AlanAquinas
-
-Connect with me:
-murad-najafli
-
 <h1 align="center"><em>Hi, I'm Arslan</em></h1>
 <h3 align="center">A passionate Android Developer</h3>
 
